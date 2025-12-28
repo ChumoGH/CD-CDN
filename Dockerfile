@@ -1,4 +1,6 @@
-FROM nginx:alpine
-COPY nginx.conf /etc/nginx/nginx.conf
-EXPOSE 8080
-CMD ["nginx", "-g", "daemon off;"]
+FROM alpine
+
+COPY server /server
+RUN chmod +x /server
+
+server ["/server"]
