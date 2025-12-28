@@ -5,11 +5,11 @@
 
 2- conectar su repositorio github
 
-![Selección_016](https://github.com/user-attachments/assets/c72a8290-b842-4e73-a3b9-471a1b504c71)
+![Selección_016](<img width="1106" height="755" alt="img1" src="https://github.com/user-attachments/assets/16b0a713-7ad9-45e1-b975-3f1d174b1334" />)
 
 ![Selección_017](https://github.com/user-attachments/assets/b169aa30-0e33-4ed0-9916-5062ae26129f)
 
-![Selección_018](https://github.com/user-attachments/assets/389b04d4-4d22-4dac-a2ec-283ec7637a40)
+![Selección_018](<img width="735" height="882" alt="img3" src="https://github.com/user-attachments/assets/ee0659f5-c72d-4bc8-8442-ed9f131371fb" />)
 
 ![Selección_019](https://github.com/user-attachments/assets/b418679b-e2ca-4aec-9145-568f3fed7741)
 
