@@ -11,7 +11,6 @@
 
 ![Selección_018](https://github.com/user-attachments/assets/ee0659f5-c72d-4bc8-8442-ed9f131371fb)
 
-![Selección_019](https://github.com/user-attachments/assets/b418679b-e2ca-4aec-9145-568f3fed7741)
 
 ![Selección_020](https://github.com/user-attachments/assets/a9405049-883f-4a68-a3f9-7abc2fa64aa4)
 
